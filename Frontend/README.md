@@ -1,7 +1,7 @@
 # Auto-Complete Search Engine – Frontend
 
 ## Project Overview
-This is the React frontend of our Auto-Complete Search Engine project, developed using Vite.
+This is the React frontend of our Auto-Complete Search Engine project, developed via Vite.
 
 The application allows users to:
 - Enter a search prefix.
