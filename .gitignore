@@ -14,6 +14,7 @@ dist/
 # Environment variables and secrets
 .env
 .env.*
+!.env.example
 
 # IDE and OS files
 .vscode/
